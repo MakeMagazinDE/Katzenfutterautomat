@@ -10,6 +10,6 @@ Fütterungsautomat für Trockenfutter mit Web-Steuerung
 
 Die Steuerung übernimmt ein Wemos D1 Mini-Board, gefüttert wird per Web-Seite.
 
-![Picture](https://github.com/MakeMagazinDE/Selbstbaugiessautomat/blob/master/IMG_0160_klein.JPG) 
+![Picture](https://github.com/MakeMagazinDE/Katzenfutterautomat/blob/master/Aufmacher.JPG) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der Make-Ausgabe 2/2020 ab Seite 34 zu lesen. 
